@@ -1,0 +1,6 @@
+{
+  "name": "Clash Squad 4v4",
+  "description": "4v4 Tactical Round-Based Mobile Shooter System Architecture & Interactive Combat Simulator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
